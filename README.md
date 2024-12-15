@@ -1,1 +1,3 @@
 # CSE570_sleep_anomaly_prediction
+Sleep efficiency is a critical measure of sleep quality and overall health, influencing cognitive performance, mood, and well-being. This project introduces a single-device, multi-modal approach utilizing everyday smartphone data to predict sleep efficiency and next-day mood using everyday data like activity, screen usage, and location. The system utilizes anomaly prediction techniques to discover the sudden drops in sleeping efficiency which will help to alert the users. It achieves an F1 score of 0.43, and highlights significant correlations between sleep disruptions and mood changes. This approach removes the need for wearables, eventually  offering a user-friendly, non-intrusive method to enhance sleep and mental health.
+
